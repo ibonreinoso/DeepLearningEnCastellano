@@ -12,7 +12,9 @@ Las referencias para lectura y aprendizaje están al final del fichero. Disfrút
 ---
 
 TRADUCTOR: Ibon Reinoso Isasi, [http://ibonreinoso.eu/](http://ibonreinoso.eu/)
+
 CONTACTO: ibonreinoso@opendeusto.es, LinkedIn: [https://www.linkedin.com/in/ibon-reinoso-isasi/](https://www.linkedin.com/in/ibon-reinoso-isasi/) 
+
 Última fecha rev: 19/12/2019, por Ibon Reinoso Isasi
 
 ---
