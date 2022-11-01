@@ -13,7 +13,7 @@ Las referencias para lectura y aprendizaje están al final del fichero. Disfrút
 
 TRADUCTOR: Ibon Reinoso Isasi, [http://ibonreinoso.eu/](https://ibonreinoso.com/)
 
-¿Quieres leer y aprender sobre Big Data? MI BLOG: [https://bigbaydata.com/](https://bigbaydata.com/)
+¿Quieres leer y aprender sobre Big Data? [https://bigbaydata.com/](https://bigbaydata.com/)
 
 CONTACTO: ibonreinoso@opendeusto.es, LinkedIn: [https://www.linkedin.com/in/ibon-reinoso-isasi/](https://www.linkedin.com/in/ibon-reinoso-isasi/) 
 
