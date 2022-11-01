@@ -11,7 +11,7 @@ Las referencias para lectura y aprendizaje están al final del fichero. Disfrút
 
 ---
 
-TRADUCTOR: Ibon Reinoso Isasi, [http://ibonreinoso.eu/](https://ibonreinoso.com/)
+TRADUCTOR: Ibon Reinoso Isasi, [https://ibonreinoso.com/](https://ibonreinoso.com/)
 
 ¿Quieres leer y aprender sobre Big Data? [https://bigbaydata.com/](https://bigbaydata.com/)
 
