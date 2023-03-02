@@ -11,13 +11,12 @@ IMPORTANTE:
 
 El código está implementado para ser entendible y puramente académico.
 No está optimizado ni es su propósito.
-Las referencias para lectura y aprendizaje están al final del fichero. Disfrútalo!
-
+Las referencias para lectura y aprendizaje están al final del fichero.
 ---
 
-TRADUCTOR: Ibon Reinoso Isasi, http://ibonreinoso.eu/
-CONTACTO: ibonreinoso@opendeusto.es, LinkedIn: https://www.linkedin.com/in/ibon-reinoso-isasi/ 
-Última fecha rev: 19/12/2019, por Ibon Reinoso Isasi
+BigBayData.com | http://bigbaydata.com/
+LinkedIn: https://www.linkedin.com/in/ibon-reinoso-isasi/ 
+ por Ibon Reinoso Isasi
 
 ---
 
@@ -194,14 +193,9 @@ class Red(object):
 
 
 """
-Gracias por leerlo!
-Quieres saber más? Aquí tienes las referencias, espero que sean útiles para ti :)
 [REF1] Gradiente Descendente Estocástica (Stochastic Gradient Descent o SGD) * https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 [REF2] Propagación Hacia Atrás (Backpropagation) * https://en.wikipedia.org/wiki/Backpropagation
 [REF3] Distribución Gausiana * https://en.wikipedia.org/wiki/Normal_distribution
-[REF4] Gradiente Descendente * https://en.wikipedia.org/wiki/Gradient_descent (Dibujo, la distancia máxima para cada X)
+[REF4] Gradiente Descendente * https://en.wikipedia.org/wiki/Gradient_descent 
 [REF5] Función Sigmoide * https://es.wikipedia.org/wiki/Funci%C3%B3n_sigmoide
---
-# Contenido Original: Neural Networks and Deep Learning, de Michael Nielsen
-# http://neuralnetworksanddeeplearning.com/
 """
