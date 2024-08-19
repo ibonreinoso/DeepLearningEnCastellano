@@ -19,6 +19,7 @@ LinkedIn: [https://www.linkedin.com/in/ibon-reinoso-isasi/](https://www.linkedin
 ---
 
 
-### Sesiones Privadas One to One
-> Si te interesa tener una sesión formativa privada contáctame a través del siguiente enlace:
-- https://www.bigbaydata.com/contacto/
+ 
+## Sesiones privadas One to One
+¿Quieres profundizar más conmigo y tener tu propio profesor particular? 🧑‍🏫
+> https://www.bigbaydata.com/contacto/
